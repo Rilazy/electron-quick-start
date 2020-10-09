@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "dnd-assistant",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A program to assist players and DM's while playing DnD",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Riley McCabe",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^10.1.3"
