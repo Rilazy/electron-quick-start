@@ -1,3 +1,3 @@
 # Riley's DnD Assistant
 
-**Clone and run for a quick way to see Electron in action.**
+**A DnD Assistant that I'll make a README file for once I actually have figured out what all specifically it does**
